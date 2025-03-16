@@ -1,0 +1,4 @@
+C:\Users\jekso\source\repos\mloop-l2\mloop-l2\obj\Debug\net8.0\mloop-l2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jekso\source\repos\mloop-l2\mloop-l2\obj\Debug\net8.0\mloop-l2.AssemblyInfoInputs.cache
+C:\Users\jekso\source\repos\mloop-l2\mloop-l2\obj\Debug\net8.0\mloop-l2.AssemblyInfo.cs
+C:\Users\jekso\source\repos\mloop-l2\mloop-l2\obj\Debug\net8.0\mloop-l2.csproj.CoreCompileInputs.cache
